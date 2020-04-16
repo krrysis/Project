@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-saniket
-krrysis 123
-=======
-saniket 123
-krrysis
->>>>>>> 78c475f3ccba09a6904a85a8aa4a3236f92c1886
